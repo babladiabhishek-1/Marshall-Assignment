@@ -32,7 +32,7 @@ The Crypto  App fetches cryptocurrency data and exchange rates from various APIs
 
 1. Launch the app on your iOS device or simulator.
 2. The app will fetch cryptocurrency data and exchange rates.
-3. View cryptocurrency prices in INR, USD, or SEK.
+3. View cryptocurrency prices in USD, or SEK.
 4. Toggle between USD and SEK for price display.
 
 ## Testing
