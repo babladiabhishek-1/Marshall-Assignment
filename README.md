@@ -18,7 +18,7 @@ The Crypto  App fetches cryptocurrency data and exchange rates from various APIs
 ## Features
 
 - Fetch cryptocurrency data from the WazirX API.
-- Fetch exchange rates from the XE API.
+- Fetch exchange rates from the XE API. https://xecdapi.xe.com/v1/central_bank_rate?central_bank=SWE&to=USD&amount=1&inverse=false&decimal_places=20&margin=0&fields=mid
 - Convert prices between base(INR), USD, and SEK.
 - Toggle between USD and SEK for price display.
 - Unit tests for some key functionalities.
