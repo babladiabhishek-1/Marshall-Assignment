@@ -8,11 +8,8 @@ This project is a Swift-based application that fetches cryptocurrency data and e
 - [Project Description](#project-description)
 - [Features](#features)
 - [Requirements](#requirements)
-- [Installation](#installation)
 - [Usage](#usage)
 - [Testing](#testing)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Project Description
 
