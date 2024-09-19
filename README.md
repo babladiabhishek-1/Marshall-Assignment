@@ -49,4 +49,4 @@ The following test cases are included:
 - **Fetch Crypto List Failure**: Tests the failure scenario when fetching crypto data.
 - **Fetch Exchange Rates**: Tests the fetching of exchange rates from INR to USD and USD to SEK.
 - **Convert Price to USD**: Tests the conversion of a price from INR to USD.
-- **Convert Price to SEK**: Tests the conversion of a price from INR to SEK.
+- **Convert Price to SEK**: Tests the conversion of a price from USD to SEK.
