@@ -27,6 +27,7 @@ The Crypto  App fetches cryptocurrency data and exchange rates from various APIs
 
 - Xcode 16.0 or later
 - iOS 18.0 or later
+- Account ID and API Key required in ExchangeRateManager file to fetch exchange rates https://xecdapi.xe.com/docs/v1/
 
 ## Usage
 
