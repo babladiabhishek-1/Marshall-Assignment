@@ -53,8 +53,8 @@ class ExchangeRateManager: ObservableObject {
     }
     
     func fetchExchangeRate(endpoint: ServiceEndPoint) -> AnyPublisher<Double, NetworkError> {
-        let accountID = ".187643310"
-        let apiKey = "mgcst02ddljs9l3r9r34q6l8s2"
+        let accountID = ""
+        let apiKey = ""
         
         guard let url = endpoint.getURL() else {
             return Fail(error: NetworkError.badURL).eraseToAnyPublisher()
